@@ -3,7 +3,6 @@
 * https://hal.inria.fr/file/index/docid/555588/filename/techreport.pdf
 * https://m.habr.com/ru/post/418897
 * https://m.habr.com/ru/post/416961
-
 * https://m.habr.com/ru/post/272987/
 * https://en.m.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
