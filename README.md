@@ -7,6 +7,12 @@
 * https://m.habr.com/ru/post/272987/
 * https://en.m.wikipedia.org/wiki/Conflict-free_replicated_data_type
 
+# video
+
+* https://www.youtube.com/playlist?list=PL6QyeBG3jUEZ68lnAdriTecuXKqybtToy
+* https://www.youtube.com/playlist?list=PLuhRWgmPaHtTVkko1ZTn-qcGb-n6EqHff
+* https://www.youtube.com/playlist?list=PLuhRWgmPaHtSvjFsjaVm_Fj9nXuwW35Ai
+
 # code
 
 * https://github.com/ipfs-shipyard/js-delta-crdts
