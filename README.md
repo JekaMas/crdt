@@ -5,6 +5,7 @@
 * https://m.habr.com/ru/post/416961
 * https://m.habr.com/ru/post/272987/
 * https://en.m.wikipedia.org/wiki/Conflict-free_replicated_data_type
+* http://christophermeiklejohn.com/erlang/lasp/2019/03/08/monotonicity.html
 
 # video
 
