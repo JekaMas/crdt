@@ -15,6 +15,7 @@
 
 # code
 
+* https://github.com/automerge/automerge
 * https://github.com/ipfs-shipyard/js-delta-crdts
 * https://github.com/rust-crdt/rust-crdt/blob/master/README.md
 * https://github.com/soundcloud/roshi
